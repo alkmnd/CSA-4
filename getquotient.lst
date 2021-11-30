@@ -1,0 +1,11 @@
+     1                                  
+     2                                  global GetQuotient
+     3                                  GetQuotient:
+     4 00000000 B9FFFFFFFF              mov ecx, -1    
+     5 00000005 30C0                        xor al, al      
+     6 00000007 FC                          cld            
+     7 00000008 F2AE                        repne   scasb   
+     8 0000000A F7D9                        neg ecx
+     9 0000000C 83E901                      sub ecx, 1     
+    10 0000000F 89C8                        mov eax, ecx
+    11 00000011 C3                          ret

@@ -1,0 +1,11 @@
+Container with 10 elements:
+0. This is puzzle: Aegr.,sd!	Answer: 	Value of the function: 0.100000
+1. This is aphorism: Ihdsg!	Author: 	Value of the function: 0.100000
+2. Incorrect data!
+3. Incorrect data!
+4. Incorrect data!
+5. Incorrect data!
+6. Incorrect data!
+7. Incorrect data!
+8. Incorrect data!
+9. Incorrect data!

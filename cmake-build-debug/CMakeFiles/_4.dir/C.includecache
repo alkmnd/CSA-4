@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/antonasamolov/Desktop/АВС-4/data.h
+
+/Users/antonasamolov/Desktop/АВС-4/extdata.h
+
+/Users/antonasamolov/Desktop/АВС-4/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+sys/unistd.h
+-
+unistd.h
+-
+data.h
+/Users/antonasamolov/Desktop/АВС-4/data.h
+
+/Users/antonasamolov/Desktop/АВС-4/output.c
+stdio.h
+-
+extdata.h
+/Users/antonasamolov/Desktop/АВС-4/extdata.h
+

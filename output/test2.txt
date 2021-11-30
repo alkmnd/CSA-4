@@ -1,0 +1,7 @@
+Container with 6 elements:
+0. This is aphorism: Fjkhgf	Author: 	Value of the function: 0.100000
+1. This is puzzle: Kej,.krjEkjhdsgh	Answer: 	Value of the function: 0.100000
+2. This is proverb: KljkfghdErjkhtg	Country: 	Value of the function: 0.100000
+3. This is puzzle: Kdfjggh	Answer: 	Value of the function: 0.100000
+4. This is aphorism: Ejf.,,.dHehrgj	Author: 	Value of the function: 0.100000
+5. This is proverb: Ldfkj.trluktrehgfreert	Country: 	Value of the function: 0.100000
